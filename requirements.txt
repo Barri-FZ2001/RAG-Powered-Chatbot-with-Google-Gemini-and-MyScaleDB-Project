@@ -1,0 +1,5 @@
+langchain_community
+langchain_text_splitters
+google-generativeai
+pandas
+clickhouse-connect
