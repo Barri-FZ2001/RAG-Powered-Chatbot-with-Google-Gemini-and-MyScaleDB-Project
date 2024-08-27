@@ -1,6 +1,6 @@
 # RAG-Powered Chatbot with Google Gemini and MyScaleDB
 
-![RAG Workflow](rag_with_gemini.png)
+![RAG Workflow](rag_with_gemini.jpg)
 
 This project demonstrates how to build a **Retrieval-Augmented Generation (RAG) powered chatbot** using **Google Gemini** and **MyScaleDB**. The chatbot retrieves relevant information from a database and generates contextually accurate responses based on the retrieved data.
 
