@@ -17,8 +17,8 @@ This workflow ensures that the chatbot provides informative and accurate respons
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/rag-chatbot-project.git
-    cd rag-chatbot-project
+    git clone  https://github.com/Barri-FZ2001/RAG-Powered-Chatbot-with-Google-Gemini-and-MyScaleDB-Project.git
+    cd RAG-Powered-Chatbot-with-Google-Gemini-and-MyScaleDB-Project
     ```
 
 2. **Install dependencies**:
@@ -26,9 +26,9 @@ This workflow ensures that the chatbot provides informative and accurate respons
     pip install -r requirements.txt
     ```
 
-3. **Run the chatbot**:
+3. **Run the Rag system**:
     ```bash
-    python chatbot.py
+    python rag_with_gemini.py
     ```
 
 ## Key Technologies
@@ -36,6 +36,3 @@ This workflow ensures that the chatbot provides informative and accurate respons
 - **Google Gemini**: Used for processing and generating human-like text responses.
 - **MyScaleDB**: The database used to store and retrieve relevant information for context.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
